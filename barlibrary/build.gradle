@@ -3,7 +3,7 @@ apply plugin: 'com.github.dcendents.android-maven'
 android {
     compileSdkVersion 25
     buildToolsVersion '26.0.2'
-    group="github.com/eggbrid"
+    group="github.com/beijingjybd"
     defaultConfig {
         minSdkVersion 11
         targetSdkVersion 25
